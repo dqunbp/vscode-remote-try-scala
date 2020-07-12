@@ -1,0 +1,4 @@
+[debug] [vscode-remote-try-scala-build] Classpath dependencies List()
+[debug] [vscode-remote-try-scala-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'vscode-remote-try-scala-build' to '/workspaces/vscode-remote-try-scala/project/.bloop/vscode-remote-try-scala-build.json'
+[success] Generated .bloop/vscode-remote-try-scala-build.json
